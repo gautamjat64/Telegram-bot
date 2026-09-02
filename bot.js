@@ -6,7 +6,11 @@ const app = express();
 app.get('/',(req,res)=>res.send('Bot is Live!'));
 app.listen(process.env.PORT||3000);
 
+const ADMIN_ID = 8793721693;
+
 bot.on('message',(msg)=>{
+  if(msg.from.id == ADMIN_ID) return;
+
   bot.sendMessage(msg.chat.id,
 `💖 Hi, ARADHYA HERE 💖
 
@@ -16,6 +20,6 @@ bot.on('message',(msg)=>{
 
 ⚠️ GENUINE SERVICE ONLY - GENUINE CUSTOMERS REPLY ⚠️
 
-✨ REPLY   ➡️➡️➡️➡️  YES ✨`
+✨ REPLY ➡️➡️➡️➡️ YES ✨`
   );
 });
