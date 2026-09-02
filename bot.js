@@ -10,7 +10,7 @@ bot.on('message',(msg)=>{
   bot.sendMessage(msg.chat.id,
 `💖 Hi, ARADHYA HERE 💖
 
-📹 VIDEO CALL SERVICE AVAILABLE 📹
+📹 VIDEO CALL SERVICE AVAILABLE 
 
 👉 INTERESTED?
 
