@@ -16,6 +16,6 @@ bot.on('message',(msg)=>{
 
 ⚠️ GENUINE SERVICE ONLY - GENUINE CUSTOMERS REPLY ⚠️
 
-✨ REPLY          YES ✨`
+✨ REPLY   ➡️➡️➡️➡️  YES ✨`
   );
 });
