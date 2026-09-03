@@ -42,11 +42,11 @@ bot.on('message', (msg) => {
 `😘 Only Interested Contact 😘
 ✅ Online ✅ 💯💯
 
-➡️ 1👉 99rs-- demo call full nude
-➡️ 2👉 95rs-- 3 nude pics
+➡️ 1👉 99rs-- demo call full n*de
+➡️ 2👉 95rs-- 3 n*de pics
 ➡️ 3👉 349rs-- 5 photos and 2 video
 ➡️ 4👉 299rs-- 10 min video call
-➡️ 5👉 249rs-- sxx chat
+➡️ 5👉 249rs-- s*x chat
 ➡️ 6👉 399rs-- 20min video call
 ➡️ 7👉 499rs-- 30min full open 💯
 
