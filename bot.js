@@ -7,8 +7,16 @@ const token = process.env.BOT_TOKEN;
 const bot = new TelegramBot(token, { polling: true });
 
 const app = express();
-app.get('/', (req, res) => res.send('Bot is Live!'));
-app.listen(process.env.PORT || 3000);
+
+app.use(express.static(path.join(__dirname, 'public')));
+
+app.get('/', (req, res) => {
+  res.sendFile(path.join(__dirname, 'public', 'index.html'));
+});
+
+app.listen(process.env.PORT || 3000, () => {
+  console.log('Bot & Website Live!');
+});
 
 const ADMIN_ID = 8793721693;
 
